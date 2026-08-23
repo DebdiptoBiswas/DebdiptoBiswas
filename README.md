@@ -152,20 +152,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/DebdiptoBiswas">
-    <img src="https://img.shields.io/github/followers/DebdiptoBiswas?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/DebdiptoBiswas">
-    <img src="https://img.shields.io/github/stars/DebdiptoBiswas?label=Total%20Stars&style=for-the-badge" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/DebdiptoBiswas">
-    <img src="https://img.shields.io/github/repos/DebdiptoBiswas?label=Repositories&style=for-the-badge" alt="GitHub Repositories"/>
-  </a>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebdiptoBiswas&hide_border=true" alt="DebdiptoBiswas GitHub Activity Graph"/>
+  <img src="./profile-cards/lifetime.svg" alt="GitHub Contribution History" width="846"/>
 </p>
-
 
