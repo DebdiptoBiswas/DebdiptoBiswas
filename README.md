@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 Currently pursuing **PGDM at FORE School of Management, New Delhi**
-* 💻 Graduate in **Computer Science & Engineering (Cyber Physical Systems)** from **VIT Chennai**
+* 💻 Graduate in **Computer Science & Engineering** from **Vellore Institute of Technology**
 * 📊 Interested in **Data Analytics, Business Analytics, Artificial Intelligence and GenAI**
 * 🤖 Exploring how **AI, technology and analytics can solve business problems**
 * 📈 Currently developing my skills in **Data Analytics, Statistics, Business Intelligence and AI**
@@ -102,8 +102,6 @@
 
 <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel" alt="Excel"/>
 
-<img src="https://img.shields.io/badge/Bloomberg-Finance-orange?style=for-the-badge" alt="Bloomberg"/>
-
 </p>
 
 ---
@@ -111,26 +109,27 @@
 ### 📚 Certifications & Learning
 
 * **Ultimate Job-Ready AI-Powered Data Analytics Course** — CodeWithHarry
-* **Bloomberg Finance Fundamentals**
-* **Accounting for Non-Finance Professionals** — Rice University
-* **C & Python Training** — IIT Bombay
 * **MERN Internship Program** — VIT
-* **Goethe-Zertifikat German Language**
+* **Goethe-Zertifikat German Language**-
 
 ---
 
 ### 🚀 Areas I'm Exploring
 
-```text
-Data Analytics
-Business Analytics
-Artificial Intelligence
-Generative AI
-Business Intelligence
-Data Visualization
-Technology & Management
-Full-Stack Development
-Cyber Physical Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Analytics-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-f59e0b?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-0078d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-e34f26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technology%20%26%20Management-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=for-the-badge" />
+</p>
+
 ```
 
 ---
