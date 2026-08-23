@@ -152,14 +152,14 @@
 
 ### 📈 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debdiptobiswas&show_icons=true&locale=en&layout=compact" alt="debdiptobiswas" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DebdiptoBiswas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="DebdiptoBiswas GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdiptoBiswas&layout=compact&hide_border=true&langs_count=8" alt="DebdiptoBiswas Top Languages" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=debdiptobiswas&show_icons=true&locale=en" alt="debdiptobiswas" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DebdiptoBiswas&hide_border=true" alt="DebdiptoBiswas GitHub Streak" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debdiptobiswas" alt="debdiptobiswas" />
-</p>
