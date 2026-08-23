@@ -150,16 +150,22 @@
 
 ---
 
-### 📈 GitHub Stats
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DebdiptoBiswas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="DebdiptoBiswas GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdiptoBiswas&layout=compact&hide_border=true&langs_count=8" alt="DebdiptoBiswas Top Languages" />
+  <a href="https://github.com/DebdiptoBiswas">
+    <img src="https://img.shields.io/github/followers/DebdiptoBiswas?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/DebdiptoBiswas">
+    <img src="https://img.shields.io/github/stars/DebdiptoBiswas?label=Total%20Stars&style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/DebdiptoBiswas">
+    <img src="https://img.shields.io/github/repos/DebdiptoBiswas?label=Repositories&style=for-the-badge" alt="GitHub Repositories"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DebdiptoBiswas&hide_border=true" alt="DebdiptoBiswas GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebdiptoBiswas&hide_border=true" alt="DebdiptoBiswas GitHub Activity Graph"/>
 </p>
+
 
