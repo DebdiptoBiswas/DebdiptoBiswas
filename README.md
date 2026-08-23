@@ -152,9 +152,8 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile-cards/lifetime.svg" alt="GitHub Contribution History" width="846"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/lifetime.dark.svg" />
+  <img src="./profile-cards/lifetime.light.svg" alt="GitHub Contribution History" width="100%" />
+</picture>
 
